@@ -2,4 +2,4 @@ blank_issues_enabled: false
 contact_links:
   - name: OneZero App Support
     url: https://support.onezero.company
-    description: For support regarding our apps.
+    about: For support regarding our apps.
