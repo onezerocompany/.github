@@ -2,7 +2,7 @@
 name: Bug Report
 about: Report a problem you are experiencing.
 title: "[Bug Report] "
-labels: bug
+labels: bug, needs-triage
 assignees: lucasilverentand
 
 ---
