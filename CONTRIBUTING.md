@@ -18,7 +18,7 @@ Contributions are made to this repo via Issues and Pull Requests (PRs). A few ge
 
 ### Issues
 
-Issues should be used to report problems with the library, request a new feature, or discuss potential changes before a PR is created. When you create a new Issue, a template will be loaded that will guide you through collecting and providing the information we need to investigate.
+Issues should be used to report problems with the library, request a new feature, or discuss potential changes before a PR is created. When you open a new Issue, a template will be loaded that will guide you through collecting and providing the information we need to investigate.
 
 If you find an Issue that addresses the problem you’re having, please add your reproduction information to the existing issue rather than creating a new one. Adding a reaction can also help be indicating to our maintainers that a particular problem is affecting more than just the reporter.
 
@@ -32,7 +32,7 @@ PRs to our libraries are always welcome and can be a quick way to get your fix o
 - Document as much of the code as possible (but keep it brief)
 - Be accompanied by a complete Pull Request template (loaded automatically when a PR is created).
 
-For changes that address core functionality or would require breaking changes (e.g. a major release), it’s best to open an Issue to discuss your proposal first. This is not required but can save time creating and reviewing changes.
+For changes that address core functionality or require breaking changes (aka, a major release), it’s best to open an Issue to discuss your proposal first. It is not required but can save time creating and reviewing changes.
 
 In general, we follow the [“fork-and-pull” Git workflow](https://github.com/susam/gitpr)
 
@@ -46,4 +46,4 @@ In general, we follow the [“fork-and-pull” Git workflow](https://github.com/
 
 ## Getting Help
 
-In case you need to get support regarding a project of us, please consult our support document. Which can be found [here](https://github.com/onezerocompany/.github/blob/main/SUPPORT.md)
+In case you need to get support regarding a project of ours, please consult our support document. Which can be found [here](https://github.com/onezerocompany/.github/blob/main/SUPPORT.md)
