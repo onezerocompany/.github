@@ -1,23 +1,26 @@
 ---
 name: Feature Request
 about: Suggest a new feature for this project
-title: "[Feature Request]"
-labels: feature, needs-triage
+title: "[Feature Request] "
+labels: feature, needs-triage, needs-labels
 assignees: lucasilverentand
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+#### Feature Description
+###### What problem does your feature solve? - 💡
+<!-- Describe what problem this feature would solve -->
 
-**Describe the solution you'd like**
-Describe clearly and concisely what you would like to happen.
+###### How would you implement this? - 📖
+<!-- Give a high-level description of how you would implement the feature -->
 
-**Describe alternatives you've considered**
-Describe clearly and concisely which alternatives you have considered to solve your problem.
+###### Describe alternatives you've considered - 💭
+<!-- Describe alternatives you have considered to solve the problem -->
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+---
+#### Additional Information
+###### Additional context
+<!-- Insert any other context or screenshots here -->
 
-**Are you willing to make a PR**
-Specify whether you would be willing or capable of working on this issue yourself.
+###### Are you willing to make a PR
+<!-- Let us know whether you are eager to work on the feature yourself -->
