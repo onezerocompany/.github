@@ -18,7 +18,7 @@ body:
       placeholder: describe the feature here...
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: implementation
     attributes:
       label: Implementation
