@@ -1,0 +1,46 @@
+name: Feature Request
+description: Suggest a new feature for this project
+labels: [feature, needs-triage, needs-labels]
+body:
+  - type: input
+    id: scope
+    attributes:
+      label: Feature scope
+      description: What part of the application does this feature apply to?
+      placeholder: e.g. authentication, analytics, editor, etc...
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Feature description
+      description: What problem would this feature solve?
+      placeholder: describe the feature here...
+    validations:
+      required: true
+  - type: textarea
+    id: implementation
+    attributes:
+      label: Implementation
+      description: How would you implement this feature?
+      placeholder: describe a possible implementation here...
+  - type: input
+    id: blocking
+    attributes:
+      label: Blocked by other feature
+      description: In case another feature is blocking this feature
+      placeholder: a feature blocking this feature...
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Information
+      description: Write any additional information related to this feature down below
+      placeholder: any additional information here...
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/onezerocompany/.github/blob/main/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
