@@ -16,16 +16,16 @@ labels: feature, needs-triage, needs-labels
 
 ###### Describe alternatives you've considered - 💭
 
-<!-- Describe alternatives you have considered to solve the problem -->
+<!-- Describe alternatives you have considered to solve the problem, and why they won't work -->
 
 ---
 
 #### Additional Information
 
-###### Additional context
+###### Which platforms/devices does this feature apply to? - 📱
+
+<!-- In case it applies, define which platforms and devices this feature applies to -->
+
+###### Additional context - 💬
 
 <!-- Insert any other context or screenshots here -->
-
-###### Are you willing to make a PR
-
-<!-- Let us know whether you are eager to work on the feature yourself -->
