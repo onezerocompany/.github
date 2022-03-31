@@ -1,6 +1,6 @@
 ---
-name: Requested
-about: A requested feature by a user
+name: Feature
+about: Features we think of ourselves
 labels: feature, needs-labels
 ---
 
@@ -22,28 +22,15 @@ labels: feature, needs-labels
 ###### Which platforms/devices does this feature apply to? - 📱
 <!-- In case it applies, define which platforms and devices this feature applies to -->
 
-###### Other notes on the feature that are important - 📝
-
----
-
-#### Requester Details
-
-###### Full name of the person that requested this feature - 🙋🏻‍♂️
-<!-- e.g. Luca Silverentand -->
-
-###### Contact details - 📞
-<!-- e.g. @luca.silverentand (Instagram) or luca@onzero.company -->
-
-###### Does the person want to be contacted when the feature is implemented - 📬
-<!-- Yes/No -->
-
-###### Relevant conversation pieces - 💬
-<!-- Insert chat or transcript here -->
+###### Additional notes on the feature that are important - 📝
+<!-- Include any other details or thoughts on the feature -->
 
 ---
 
 #### Feature Checklist - ✅
 <!-- Add a list of actionable items -->
 
+- [ ] Assigned priority to this issue (including labels)
 - [ ] Tag this issue with the correct labels (remove needs-labels too)
+- [ ] Added this issue to the project board
 - [ ] Create a feature/{feature-name} branch
