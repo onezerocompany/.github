@@ -10,7 +10,7 @@ When trying to get help for one of our repositories, please look at the 'Discuss
 ### For our apps
 In case you are using one of our apps from the App Store or Google Play Store, most likely, the app has a dedicated button for support within its settings page. If for some reason, that does not work, you can always reach us at the following socials: 
 
-- Email -> [support@onezero.company](mailto:support@onezero.company)
+- Email -> [code-support@onezero.company](mailto:code-support@onezero.company)
 - Twitter ->[@onezerocompany](https://twitter.com/onezerocompany)
 - Facebook -> [@onezerocompany](https://www.facebook.com/onezerocompany)
 - LinkedIn -> [company/onezerocompany](https://www.linkedin.com/company/onezerocompany)
