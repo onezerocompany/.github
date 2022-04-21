@@ -43,13 +43,3 @@ assignees:
 
 **💬 Relevant conversation pieces**
 <!-- Insert chat or transcript here -->
-
----
-
-**✅ Feature Checklist**
-<!-- Add a list of actionable items -->
-
-- [ ] Assigned priority to this issue (including labels)
-- [ ] Tag this issue with the correct labels (remove needs-labels too)
-- [ ] Added this issue to the project board
-- [ ] Create a feature/{issue-number} branch

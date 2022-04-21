@@ -88,13 +88,3 @@ Describe with a Yes/No, and a short explainer
 
 **💬 Relevant conversation pieces**
 <!-- Insert chat or transcript here -->
-
----
-
-**✅ Bug Checklist**
-<!-- Add a list of actionable items -->
-
-- [ ] Assigned priority to this issue (including labels)
-- [ ] Tag this issue with the correct labels (remove needs-labels too)
-- [ ] Added this issue to the project board
-- [ ] Create a bug/{issue-number} branch
