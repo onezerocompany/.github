@@ -1,8 +1,8 @@
 ---
 name: Requested Feature
 about: A requested feature by a user
-labels: feature, requested, needs-labels
-title: "Requested Feature: "
+labels: feature, requested
+title: "🙋🏻‍♂️ "
 assignees:
     - lucasilverentand
 ---

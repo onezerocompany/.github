@@ -1,8 +1,8 @@
 ---
 name: Bug Report
 about: Report a bug either from an internal or external bug report
-labels: bug, needs-labels
-title: "Bug Report: "
+labels: bug
+title: "🐞 "
 assignees:
     - lucasilverentand
 ---

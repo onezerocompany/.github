@@ -1,8 +1,8 @@
 ---
 name: Feature
 about: Features we think of ourselves
-labels: feature, needs-labels
-title: "Feature: "
+labels: feature
+title: "💡 "
 assignees:
     - lucasilverentand
 ---
